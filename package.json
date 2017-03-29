@@ -1,7 +1,7 @@
 {
     "name": "@remobile/react-native-call",
-        "version": "1.0.1",
-        "description": "A call for react-native",
+        "version": "1.0.0",
+        "description": "A call phone number for react-native",
         "main": "index.js",
         "author": {
             "name": "YunJiang.Fang",
@@ -29,6 +29,6 @@
             "url": "git://github.com/remobile/react-native-call.git"
         },
         "peerDependencies": {
-            "@remobile/react-native-cordova": "^1.0.9"
+            "@remobile/react-native-cordova": "^1.1.1"
         }
 }
